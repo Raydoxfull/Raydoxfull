@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Raydoxfull
-- 👀 I’m interested in developement
-- 🌱 I’m currently learning python language
+- 👋 Hi, I’m Siandja Remy
+- 👀 I’m interested in Web and Mobile Developement
+- 🌱 I’m currently learning how to use React
 - 💞️ I’m looking to collaborate on any project that can help me improve my skills
 - 📫 How to reach me austineraydox@gmail.com
 
